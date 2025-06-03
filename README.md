@@ -1,6 +1,4 @@
-![Cópia de Think Plan execute](�PNG
-
-)
+![imagem](https://github.com/josieleferreira/josieleferreira/blob/main/imagem)
 
 
 ## Olá, Seja bem vindo(a) 👋
