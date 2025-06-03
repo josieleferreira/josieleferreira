@@ -1,4 +1,6 @@
-![Cópia de Think Plan execute](https://github.com/user-attachments/assets/571e4211-8af5-4007-ad31-4edd688cf60e)
+![Cópia de Think Plan execute](�PNG
+
+)
 
 
 ## Olá, Seja bem vindo(a) 👋
