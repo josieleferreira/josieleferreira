@@ -28,13 +28,19 @@ Atualmente atuo como Cientista de Dados no Grupo NDTV, desenvolvendo soluções 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-0098DB?style=flat&logo=apache-superset&logoColor=white)
 
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Git Version Control](https://img.shields.io/badge/Git%20Versioning-F05032?style=flat&logo=git&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-6D4AFF?style=flat&logo=airbyte&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-CF2A2A?style=flat&logo=minio&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-3E8EDE?style=flat&logo=trino&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Apache Nifi](https://img.shields.io/badge/Apache%20NiFi-1583C6?style=flat&logo=apache-nifi&logoColor=white)
+
 
 ---
 
