@@ -5,7 +5,7 @@
 <h1 align="center">✨ Olá, Seja bem-vindo(a)!</h1>
 
 
-## 📊 Cientista de Dados | Grupo NDTV
+## 📊 Cientista de Dados | Grupo NDTV RECORD
 
 Atualmente atuo como Cientista de Dados no Grupo NDTV, desenvolvendo soluções baseadas em dados para apoiar decisões estratégicas e operacionais. Tenho experiência em todo o ciclo de vida de projetos de dados, desde a ingestão, modelagem e análise, até a entrega de produtos analíticos e dashboards interativos.
 
