@@ -37,8 +37,6 @@ Atualmente atuo como Cientista de Dados no Grupo NDTV, desenvolvendo soluções 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-6D4AFF?style=flat&logo=airbyte&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-CF2A2A?style=flat&logo=minio&logoColor=white)
-![Trino](https://img.shields.io/badge/Trino-3E8EDE?style=flat&logo=trino&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Apache Nifi](https://img.shields.io/badge/Apache%20NiFi-1583C6?style=flat&logo=apache-nifi&logoColor=white)
 
 
