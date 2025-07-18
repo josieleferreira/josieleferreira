@@ -5,19 +5,19 @@
 <h1 align="center">✨ Olá, Seja bem-vindo(a)!</h1>
 
 
-## 📊 Cientista de Dados | Grupo NDTV RECORD
+## Cientista de Dados | Grupo NDTV RECORD
 
 Atualmente atuo como Cientista de Dados no Grupo NDTV, desenvolvendo soluções baseadas em dados para apoiar decisões estratégicas e operacionais. Tenho experiência em todo o ciclo de vida de projetos de dados, desde a ingestão, modelagem e análise, até a entrega de produtos analíticos e dashboards interativos.
 
 
-🎯 Com forte orientação a resultados, aplico técnicas de machine learning, estatística, modelagem preditiva e visualização de dados para gerar insights acionáveis e promover melhorias contínuas. Trabalho com tecnologias como Python, SQL, Power BI, e integrações com APIs e bancos de dados relacionais.
+Com forte orientação a resultados, aplico técnicas de machine learning, estatística, modelagem preditiva e visualização de dados para gerar insights acionáveis e promover melhorias contínuas. Trabalho com tecnologias como Python, SQL, Power BI, e integrações com APIs e bancos de dados relacionais.
 
 
-🏆 Busco constantemente novos desafios para aplicar meu conhecimento técnico em contextos de negócio, contribuindo com inovação, automação e valor agregado por meio da ciência de dados.
+Busco constantemente novos desafios para aplicar meu conhecimento técnico em contextos de negócio, contribuindo com inovação, automação e valor agregado por meio da ciência de dados.
 
 ---
 
-### 💡 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -41,13 +41,13 @@ Atualmente atuo como Cientista de Dados no Grupo NDTV, desenvolvendo soluções 
 
 ---
 
-### 🚀 Meus Projetos:
+### Meus Projetos:
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-4285F4?style=flat&logo=Google-Drive&logoColor=white)](COLE_AQUI_O_LINK_DO_SEU_PORTFOLIO)
 
 ---
 
-### 🤝 Vamos nos conectar?
+### Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiele-ferreira-90686a1b2/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@josieleferreira.phb)
