@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">✨ Olá, Seja bem-vindo(a)!</h1>
+<h1 align="center"> Olá, Seja bem-vindo(a)!</h1>
 
 
 ## Cientista de Dados | Grupo NDTV RECORD
