@@ -39,13 +39,13 @@ Busco constantemente novos desafios para aplicar meu conhecimento técnico em co
 ![Apache Nifi](https://img.shields.io/badge/Apache%20NiFi-1583C6?style=flat&logo=apache-nifi&logoColor=white)
 
 
----
+
 
 ### Meus Projetos:
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-4285F4?style=flat&logo=Google-Drive&logoColor=white)](COLE_AQUI_O_LINK_DO_SEU_PORTFOLIO)
 
----
+
 
 ### Vamos nos conectar?
 
