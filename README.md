@@ -7,7 +7,7 @@
 
 ## Cientista de Dados | Grupo NDTV RECORD
 
-Atualmente atuo como Cientista de Dados no Grupo NDTV, desenvolvendo soluções baseadas em dados para apoiar decisões estratégicas e operacionais. Tenho experiência em todo o ciclo de vida de projetos de dados, desde a ingestão, modelagem e análise, até a entrega de produtos analíticos e dashboards interativos.
+Atualmente, atuo como Cientista de Dados no Grupo NDTV, desenvolvendo soluções baseadas em dados para apoiar decisões estratégicas e operacionais. Tenho experiência em todo o ciclo de vida de projetos de dados, desde a ingestão, modelagem e análise, até a entrega de produtos analíticos e dashboards interativos.
 
 
 Com forte orientação a resultados, aplico técnicas de machine learning, estatística, modelagem preditiva e visualização de dados para gerar insights acionáveis e promover melhorias contínuas. Trabalho com tecnologias como Python, SQL, Power BI, e integrações com APIs e bancos de dados relacionais.
