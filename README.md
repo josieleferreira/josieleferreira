@@ -41,7 +41,7 @@ Busco constantemente novos desafios para aplicar meu conhecimento técnico em co
 
 ### Meus Projetos:
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-4285F4?style=flat&logo=Google-Drive&logoColor=white)](COLE_AQUI_O_LINK_DO_SEU_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfólio-4285F4?style=flat&logo=Google-Drive&logoColor=white)](https://sites.google.com/view/josieleferreira/in%C3%ADcio)
 
 
 
