@@ -23,8 +23,10 @@ Busco constantemente novos desafios para aplicar meu conhecimento técnico em co
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-0098DB?style=flat&logo=apache-superset&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -32,16 +34,19 @@ Busco constantemente novos desafios para aplicar meu conhecimento técnico em co
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-6D4AFF?style=flat&logo=airbyte&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-CF2A2A?style=flat&logo=minio&logoColor=white)
 ![Apache Nifi](https://img.shields.io/badge/Apache%20NiFi-1583C6?style=flat&logo=apache-nifi&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
 
 
 
 
 ### Meus Projetos:
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-4285F4?style=flat&logo=Google-Drive&logoColor=white)](https://sites.google.com/view/josieleferreira/in%C3%ADcio)
+[![Portfolio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=Google-Drive&logoColor=white)](https://sites.google.com/view/josieleferreira/in%C3%ADcio)
 
 
 
