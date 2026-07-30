@@ -15,7 +15,7 @@ Busco constantemente novos desafios para aplicar meu conhecimento técnico em co
 
 ---
 
-### Ferramentas e Tecnologias
+### Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
